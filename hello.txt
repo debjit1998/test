@@ -1,3 +1,4 @@
 Hello my name is Debjit.
 I am learning git.
-It's very difficult.
+It's quite difficult.
+Still quite interesting.
